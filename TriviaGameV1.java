@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class TriviaGameV1
 {
+   // new comment
    final int ARRAY_SIZE = 5;
    private String[] questions = new String[ARRAY_SIZE];
    private String[] answers = new String[ARRAY_SIZE];
